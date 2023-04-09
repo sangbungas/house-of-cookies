@@ -1,0 +1,24 @@
+.color-special {
+    background-color: aliceblue;
+}
+
+.Modern-Slider .item .img-fill {
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	height:95vh;
+    background-image:url(assets/home\ bake.jpg);
+}
+
+.img-fill{
+    width: 100%;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    text-align: center
+  }
+
+.left {text-align: left;}
+.right {text-align: right;}
+.center {text-align: center;}
+.justify {text-align: justify;}
